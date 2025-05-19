@@ -1,7 +1,9 @@
-import Home from './components/Home'
+import QuizGame from './components/QuizGame'
 function App() {
   return (
-    <Home />
+    <div className="">
+      <QuizGame />
+    </div>
   );
 }
 
